@@ -1,6 +1,6 @@
 # ebay_app-with-flutter
 I have made ebay type auction app with Flutter and Firebase
-this is apk link: https://github.com/dmbikash/ebay_app-with-flutter.git
+this is apk link: https://github.com/dmbikash/ebay_app-with-flutter.git .
 I have completed Task 1,2,3,5 and 6
 The challenges I haveve faced during making the project are:
 
