@@ -3,6 +3,11 @@ I have made ebay type auction app with Flutter and Firebase
 this is apk link: https://github.com/dmbikash/ebay_app-with-flutter.git
 I have completed Task 1,2,3,5 and 6
 The challenges I haveve faced during making the project are:
+
+
+
+
+
         1.As flutter a new frame-work there are very few reading materials as well 
         as watching materials can be found, it was challenging to learn a new framework.
         The necessary information were taken from stack over flow, flutter official websit
