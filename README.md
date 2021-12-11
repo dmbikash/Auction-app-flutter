@@ -8,7 +8,7 @@ The challenges I haveve faced during making the project are:
 
 
 
-        1.As  It was challenging to work with flutter and firebase.There were a few useful and authentic resourses for flutter.
+        1.  It was challenging to work with flutter and firebase.There were a few useful and authentic resourses for flutter.
         The necessary information were taken from stack over flow, flutter official websit
         (flutter.org) and YouTube.
 
